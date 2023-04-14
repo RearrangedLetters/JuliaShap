@@ -1,0 +1,4 @@
+name = "JuliaShap"
+uuid = "86029c94-cf2b-4558-a876-9a061951a87e"
+authors = ["Robin Link (RearrangedLetters) <RobinLink@ProtonMail.com>"]
+version = "0.1.0"
