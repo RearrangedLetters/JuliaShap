@@ -1,5 +1,6 @@
 module JuliaShap
 
-greet() = print("Hello World!")
+include("MonteCarloApproximation.jl")
+export shapley_values_monte
 
 end # module JuliaShap
